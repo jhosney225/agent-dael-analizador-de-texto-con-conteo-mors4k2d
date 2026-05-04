@@ -1,0 +1,6 @@
+{
+  "name": "agent-dael-analizador-de-texto-con-conteo-mors4k2d",
+  "version": "1.0.0",
+  "description": "Proyecto de Dael [Gen18]: analizador de texto con conteo de palabras y estadisticas",
+  "main": "index.js"
+}
